@@ -1,0 +1,15 @@
+{
+  "name": "aditi-singh",
+  "version": "1.0.0",
+  "description": "serv",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/AditiSingh1208/Aditi-Singh)"
+  },
+  "author": "Aditi",
+  "license": "ISC"
+}
